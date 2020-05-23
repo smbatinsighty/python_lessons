@@ -1,4 +1,4 @@
-# homework_1
+# Homework №1
 
 ```
  1 - Ստեղծել lesson_1 folder ու իրա մեջ ունենանք task1.py ֆայլ:
