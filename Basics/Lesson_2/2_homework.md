@@ -18,8 +18,10 @@
 	   Lorem Ipsum has been the industry's standard dummy text ever since the ...s,
 	   when an unknown printer took a ...  of type and scrambled it to make a type
 	   specimen book'.
-    Օգտվելով առաջին տեքստից լրացրեք բառերը օգտագործելով stringi-ի format()-ի 3 մեթոդները 
-    
+    Օգտվելով առաջին տեքստից լրացրեք բառերը օգտագործելով stringi-ի format()-ի 3 գործիքները 
+    1. "" % ()
+    2. .format
+    3. f""
  6. Ունենք սովորական int type-ի թիվ օրինակ` 97
     Ինչպես կարող ենք ստանալ առանձին 7-ը հետո 9-ը օգտագործելով միայն օպերատորներ եվ թվեր (string չդրձնեք եղավ )
      
