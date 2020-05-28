@@ -1,5 +1,32 @@
-# 3. List & Tuple
+# 3. Input, List
 ## Chapter 1
+### 1. Help
+### 2. Input
+
+
+```python
+#1. Help
+
+# print(str.strip)
+# print(help(str.strip)
+
+# input()
+# name = input()
+# print(type(name))
+
+# print("write your name ara!! please)")
+# x = input()
+# print(x)
+
+# x = input("Please write your age")
+# print(int(x))
+
+# name = input("What's your name? ")
+# print(name + "@ mer @ngerna" + "!")
+
+```
+
+## Chapter 2
 ### 1. List Introduction
 ### 2. Sequence
 ### 3. Mutable
@@ -8,7 +35,6 @@
 ```python
 #1. List Introduction
 # import random
-
 
 # x = "Lilit"
 # y = "Aren"
@@ -19,11 +45,14 @@
 # d = "Armen"
 # print(x, y, z, a, b, c, d)
 
+
 # x = list()
 # x = []
 # print(x)
-# pythonists = ["Lilit", "Aren", "Janna", "Samvel (Samo)", "Gohar", "Armen"]
+# pythonists = ["Lilit", "Aren", "Janna", "Samvel (Samo)", "Gohar", "Armen", "Luiza"]
 # ages = [60, 34, 62, 69, 63, 67, 61, "some string"]
+# len(ages)
+# pythonists[3] = "Vardan"
 # print(pythonists)
 # print(ages)
 
@@ -51,25 +80,28 @@
 # print(random.choice(pythonists))
 ```
 
-    []
-
-
-## Chapter 2
+## Chapter 3
 ### 1. List methods
 ### 2. List functions
 
 
 ```python
-# 1. List methods
+## 1. List methods
 
-# pythonists = ["Lilit", "Aren", "Janna", "Samvel (Samo)", "Gohar", "Armen"]
-# pythonists.append("Vardan") # add item to end of list
-# pythonists.pop() # remove last item
+# pythonists = ["Lilit", "Aren", "Aren", "Janna", "Samvel (Samo)", "Gohar", "Armen", "Luiza"]
+# x = pythonists[0:3]
+
+
+# x.append("Vardan") # add item to end of list
+# name = pythonists.pop() # remove last item
+# print(pythonists)
+# print(x)
+
+# help(list.pop)
 # pythonists.insert(1, 'Vardan') # add in index
-# pythonists.remove('Vardan')
+# pythonists.remove('Aren')
 # pythonists.reverse()
 # pythonists.sort(reverse=True)
-# del pythonists[3:]
 # print(pythonists)
 
 # 2. List functions
@@ -78,20 +110,7 @@
 # print(sum(x))
 # copy(x)
 # len(x)
-# sorted(x) 
-```
-
-## Chapter 3
-### 1. Touple
-
-
-```python
-# 1. Strings sequence
-
-# x = tuple([1,2])
-# x = (1, 2)
-
-# thistuple = (1, 3, 7, 8, 7, 5, 4, 6, 8, 5)
-# x = thistuple.count(5)
+# x = sorted(x, reverse=True)
 # print(x)
+# list("abcd")
 ```
