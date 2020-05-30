@@ -102,13 +102,14 @@
 # pythonists.remove('Aren')
 # pythonists.reverse()
 # pythonists.sort(reverse=True)
+# old_list = pythonists.copy()
 # print(pythonists)
+
 
 # 2. List functions
 
 # x = [1, 2, 3, 4]
 # print(sum(x))
-# copy(x)
 # len(x)
 # x = sorted(x, reverse=True)
 # print(x)
