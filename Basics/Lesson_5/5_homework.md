@@ -41,8 +41,10 @@
 
 ### Research
 ```
-  setDefault()
-  fromkeys()
+  1. setDefault()
+  2. fromkeys()
+  3. Փորձեք կիրառել մեր անցած ֆունկցիաները dict-ի համար և գրեք արդյունքներիը
+  
 ```
 
 
