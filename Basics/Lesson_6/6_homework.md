@@ -21,18 +21,18 @@
 		   file-ի անունը գրելուց հետո print արեք արդեն ստեղծված երկու file-ից համապատասխան file-ի տեսքտը(file-ը բացել whith-ի միջոցով):
 	   
     6	Ունենք սենց list users = [
-								{
-									'first_name': 'Jorj',
-									'last_name' : 'Bush',
-									'age':55
-								},
+				  	{
+					  'first_name': 'Jorj',
+					  'last_name' : 'Bush',
+					  'age':55
+					},
 
-								{
-									'first_name': 'James',
-									'last_name' : 'Bond',
-									'age':100
-								}
-							]
+					{
+					  'first_name': 'James',
+					  'last_name' : 'Bond',
+					  'age':100
+					}
+				]
 		ավելացրեք նոր ֆայլում user-ների տվյալնեը հետեվյալ ֆոռմատով
 		
 		user 1: first_name = Jorj, last_name = Bush, age = 55
