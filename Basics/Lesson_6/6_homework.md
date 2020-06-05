@@ -20,7 +20,7 @@
 	   4.3 Ունենանք input սենց հրավերքի տեսքով 'which file do you want to read?'
 		   file-ի անունը գրելուց հետո print արեք արդեն ստեղծված երկու file-ից համապատասխան file-ի տեսքտը(file-ը բացել whith-ի միջոցով):
 	   
-       4.  Ունենք սենց list users = [
+       5.  Ունենք սենց list users = [
 				  	{
 					  'first_name': 'Jorj',
 					  'last_name' : 'Bush',
