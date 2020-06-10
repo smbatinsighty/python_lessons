@@ -1,4 +1,4 @@
-# 7. while part 2, for
+# 8. while part 2, for
 
 ## Chapter 1
 ### 1. While with list
