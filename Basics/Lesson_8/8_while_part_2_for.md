@@ -1,4 +1,4 @@
-# 7. while part 2, for
+# 8. while part 2, for
 
 ## Chapter 1
 ### 1. While with list
@@ -41,7 +41,7 @@
 #     print("value = " ,user_items[x][1])
 ```
 
-## Chapter 1
+## Chapter 2
 ### 1. for, isinstance
 ### 2. range
 
@@ -89,7 +89,7 @@
 # print(list(x))
 ```
 
-## Chapter 1
+## Chapter 3
 ### 1. Short for
 
 
