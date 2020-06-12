@@ -8,7 +8,8 @@
 		
 	2.	Գրեք function, որը ընդունում է 3 parameters text, old_character, new_chararcter
 		և կփոխարինի բոլոր old_character-ը new_chararcter-ով (old_character-ը և new_chararcter-ը պետք է լինեն 1 տառ)
-	
+		առանց օգտվելու default function-ից և method-ից:
+		
 
 	3.	Գրեք function, որը ընդունում է 2 parameters  list_of_texts, file_name
 		function-ը file_name-ով file պետք է սարքի և file-ում գրի list_of_texts-ում եղած տեքստը
