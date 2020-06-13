@@ -8,10 +8,11 @@
 		
 	2.	Գրեք function, որը ընդունում է 3 parameters text, old_character, new_chararcter
 		և կփոխարինի բոլոր old_character-ը new_chararcter-ով (old_character-ը և new_chararcter-ը պետք է լինեն 1 տառ)
-	
+		առանց օգտվելու default function-ից և method-ից:
+		
 
-	3.	Գրեք function, որը ընդունում է 2 parameters file_name, list_of_texts
-		function-ը file_name-ով file պետք է սարքի և file-ում գրի list_of_texts-ում եղած տեքստը
+	3.	Գրեք function, որը ընդունում է 2 parameters file_name, list_of_texts  
+		function-ը file_name-ով file պետք է սարքի և file-ում գրի list_of_texts-ում եղած արժեքները
 		file_name parameter-ի default արժեքը պետք է լինի 'text.txt':
 		
 	4.	Գրեք function, որը ընդունում է int type-ի parameter և print է անում թիվը պարզ է թե ոչ:
