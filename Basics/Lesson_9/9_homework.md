@@ -11,7 +11,7 @@
 		առանց օգտվելու default function-ից և method-ից:
 		
 
-	3.	Գրեք function, որը ընդունում է 2 parameters   file_name, list_of_texts
+	3.	Գրեք function, որը ընդունում է 2 parameters list_of_texts, file_name 
 		function-ը file_name-ով file պետք է սարքի և file-ում գրի list_of_texts-ում եղած արժեքները
 		file_name parameter-ի default արժեքը պետք է լինի 'text.txt':
 		
