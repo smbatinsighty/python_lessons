@@ -1,13 +1,13 @@
 # Homework №10
 
 ```
-	1.  >>>	my_name = 'name'
+	1.      >>> my_name = 'name'
 		>>>	
 		>>> def f1():
 		>>>		....
 		>>>	
-		>>>	f1()
-		>>>	print(my_name)
+		>>> f1()
+		>>> print(my_name)
 		My real name
 		
 		f1() function-ում լրացրեք կետերը այնպես որ my_name-ի արժեքը փոխվի:
