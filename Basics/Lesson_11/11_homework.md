@@ -13,7 +13,7 @@
 		1.2	Գրեք function որը ընդունում է 2 parameter 1.1-ում ստացված users-ը և **kwargs:
 			kwargs-ով ավելացրեք users-ների արդեն եղած տվյալներին նոր տվյալներ key:value format-ով:
 		
-		1.3 Նոր ստացված list-ը գրել db.txt file-ում:
+		1.3 	Նոր ստացված list-ը գրել db.txt file-ում:
 		
 	2.	Ունենք list numbers = [[[[[10]]]]]
 		Recursion function-ի միջոցով ստանալ և տպել 10-ը:
