@@ -6,10 +6,10 @@
 			նույնպես ավելացնել list-ին:
 			Ստանալ  նմանատիպ list 
 			users = [	
-						{'first_name':'Smbat', 'last_name':'Paloyan', 'age':'23' ...},
-						{'first_name':'Hovhannes', 'last_name':'Stepanyan', 'age':'25 ...},
-						{'first_name':'my name', 'last_name':'my last name', 'age':'my age' ...}		
-					]
+					{'first_name':'Smbat', 'last_name':'Paloyan', 'age':'23' ...},
+					{'first_name':'Hovhannes', 'last_name':'Stepanyan', 'age':'25 ...},
+					{'first_name':'my name', 'last_name':'my last name', 'age':'my age' ...}		
+				]
 		1.2	Գրեք function որը ընդունում է 2 parameter 1.1-ում ստացված users-ը և **kwargs:
 			kwargs-ով ավելացրեք users-ների արդեն եղած տվյալներին նոր տվյալներ key:value format-ով:
 		
