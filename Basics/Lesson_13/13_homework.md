@@ -16,7 +16,7 @@
 			
 		3.3	Ստեղծեք main.py file որտեղ import արեք auth package-ը:
 			input-ի միջոցով user-ը պետք է կարողանա գրել ցանկանում է login լինել թե registration
-			ինչից հետո main.py file-ից կկանչենք password-ի համապատասխան module-ը:
+			ինչից հետո main.py file-ից կկանչենք համապատասխան module-ը:
 			
 ```
 
