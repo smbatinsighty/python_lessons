@@ -1,0 +1,28 @@
+# Homework №15
+```
+	1.	filter()-ի միջոցով ստանալ list բաղկացած տրված list-ի համահունչ item-ներից: 
+		
+		['abcba', 'abcbca', 'abcbt', '121', '123454321', '5551555']
+		
+	2.	Ստեղծել custom map function (անհրաժեշտության դեպքում կարող եք օգտվել zip function-ից):
+	
+	3.	Գտնել տրված list-ի ամենամեծ թիվը [1, 2, 5, 70, 4, 8, 50, 44]
+		3.1 Գտեք for-ի կամ while-ի միջոցով:
+		3.2	Գտեք reduce-ի միջոցով:
+```
+
+### Research
+```
+	1.	reduce() function
+```
+
+
+
+### Links
+```
+Կարաք օգտվեք ստեղից
+
+https://www.programiz.com/python-programming/methods/built-in/map
+
+https://www.programiz.com/python-programming/methods/built-in/filter
+```
