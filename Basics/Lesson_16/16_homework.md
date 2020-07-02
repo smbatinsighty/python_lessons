@@ -1,6 +1,6 @@
 # Homework №16
 ```
-	1.	Գրել login module:
+	1.   Գրել login module:
 			
 		1.1 	login լինելուց ստուգեք decorator-ի միջոցով user-ի role-ը
 			և կախված role-ից ցույց տվեք user-ներին:
