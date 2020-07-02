@@ -34,7 +34,7 @@
 ### Research
 
 ```
-	1. python re compile
+	1.	python re compile
 ```
 
 
