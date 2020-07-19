@@ -13,7 +13,7 @@
 		
 		2.1	Ունենալ method որը կվերադարձնի 'mlavelu' string-ին գումարած parent-ի ձայն հանելու method-ի վերադարձրած string-ը:
 		
-		2.2 Գրել	method որը ձայն կհանի և հետո նոր կտպի 'vazum em {runing_speed} aragutyamb':
+		2.2 	Գրել method որը ձայն կհանի և հետո նոր կտպի 'vazum em {runing_speed} aragutyamb':
 		
 	3.	Ստեղծել Lion class որը կլինի Cat-ի ժառանգ և կունենա մարդ ուտելու method:
 	
