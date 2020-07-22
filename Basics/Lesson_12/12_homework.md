@@ -11,7 +11,7 @@
 	5.	Գրեք ծրագիր որը print kani user-ների անունները ըստ մեր տված type-ի:
 		type-ը պետք է տալ run անելուց: Առաջադրանքը կատարել research անելուց հետո:
 		
-		Օրինակ	python3 get_users.py list
+		Օրինակ		python3 get_users.py list
 				
 				["Lilit", "Aren", "Janna", "Samvel", "Gohar", "Armen", "Luiza"]
 				
