@@ -5,7 +5,7 @@
 	
 	2.	Ինչ է abstact class-ը և ինչ առավելություն է տալիս:
 	
-	3.	Գրել FilterText class որը պետք է ունենա text attribute որը հետեվյալ string-ը:
+	3.	Գրել FilterText class որը պետք է ունենա text attribute որը կլինի հետեվյալ string-ը:
 		
 		'055-445-789 E.Mask 124.06.2014 093-587-135 Nemo 1.09.1887 E.Auditore 24.17.2020 096-2288-987 R.Rocknrolla'
 				
