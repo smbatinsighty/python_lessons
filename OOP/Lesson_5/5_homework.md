@@ -17,7 +17,7 @@
 			x.phone_numbers # ['055-445-789', '093-587-135']
 			
 		3.2 x[1] 5   # E.Mask
-			x[1:3] # ['E.Mask', '124.06.2014']
+		    x[1:3] # ['E.Mask', '124.06.2014']
 			
 		3.3 x[0] = 'G.Ritchie'
 		    x.text # G.Ritchie E.Mask 124.06.2014 093-587-135 Nemo 1.09.1887 E.Auditore 24.17.2020 096-2288-987 R.Rocknrolla
