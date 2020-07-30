@@ -10,7 +10,7 @@
 		
 		2.1	class-ը պետք է լինի iterable:
 		
-		2.2 Գրել set_iter_by method որով դինամիկ կորոշենք թե class-ի որ attribute-ի վրա պետք է աշխատի for-ը(dafault-ով names): 
+		2.2	Գրել set_iter_by method որով դինամիկ կորոշենք թե class-ի որ attribute-ի վրա պետք է աշխատի for-ը(dafault-ով names): 
 			tesla = TeslaMotors()
 			
 			>>> for item in tesla:
