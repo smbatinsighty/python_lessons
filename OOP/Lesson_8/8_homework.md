@@ -46,7 +46,7 @@
 ### Research
 ```
 	1.	__new__ method
-	1.	decorators (կրկնել անպայման) 
+	2.	decorators (կրկնել անպայման) 
 ```
 
 
