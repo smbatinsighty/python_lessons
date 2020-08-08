@@ -39,6 +39,5 @@
 
 ```
 Կարող եք օգտվել հետեվյալ link-երից:
-https://www.geeksforgeeks.org/context-manager-in-python/
 https://realpython.com/primer-on-python-decorators/
 ```
