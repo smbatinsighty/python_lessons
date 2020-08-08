@@ -16,7 +16,7 @@
 		3.1	User class-ը սարքել context manager այնպես որ __enter__ method-ը
 			վերադարձնի User object:
 			
-		3.2 Եթե block-ից դուրս գալուց կա error ապա error message-ը և current datetime-ը գրել log.txt file-ում
+		3.2	Եթե block-ից դուրս գալուց կա error ապա error message-ը և current datetime-ը գրել log.txt file-ում
 ```
 
 
