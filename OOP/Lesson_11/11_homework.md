@@ -39,5 +39,6 @@
 
 ```
 Կարող եք օգտվել հետեվյալ link-երից:
+https://www.geeksforgeeks.org/decorators-with-parameters-in-python/
 https://realpython.com/primer-on-python-decorators/
 ```
