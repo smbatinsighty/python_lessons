@@ -7,7 +7,7 @@
 	2.	Գրել Decorator Login function-ի համար:
 		
 		2.1 Եթե Decorator-ում ստացված function-ը կանչելիս error ստանանք ապա
-			error message-ը և current datetime-ը գրել log.txt file-ում
+		    error message-ը և current datetime-ը գրել log.txt file-ում
 			
 
 	3.	Գրել User class որը __init__()-ով կստանա login, password attribute-ներ
