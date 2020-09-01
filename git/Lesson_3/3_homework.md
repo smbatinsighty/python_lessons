@@ -12,9 +12,11 @@
 		Բոլոր գործողությունների արդյունքում ստանալ նկարում տրված reflog-ը:
 ```
 
+![title](reflog.png)
+
 ### Research
 ```
 	1. git difftool
 ```
 
-![title](reflog.png)
+
