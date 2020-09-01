@@ -17,4 +17,4 @@
 	1. git difftool
 ```
 
-![title](deltas.png)
+![title](reflog.png)
