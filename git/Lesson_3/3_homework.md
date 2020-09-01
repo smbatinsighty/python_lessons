@@ -11,9 +11,10 @@
 
 		Բոլոր գործողությունների արդյունքում ստանալ նկարում տրված reflog-ը:
 ```
-	![title](deltas.png)
 
 ### Research
 ```
 	1. git difftool
 ```
+
+![title](deltas.png)
