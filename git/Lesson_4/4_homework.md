@@ -28,5 +28,5 @@
 ### Research
 ```
 	1. git tag
-	1. git stash
+	2. git stash
 ```
