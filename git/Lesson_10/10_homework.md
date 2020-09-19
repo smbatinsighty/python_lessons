@@ -6,7 +6,7 @@
 ![title](graph.png)
 ```		
 	2.	Գտիր միայն Merge արված commit-ները:
-		screenshot արա և push արա repo:
+		Screenshot արա և push արա repo:
 	
 ```
 ![title](merges_only.png)
