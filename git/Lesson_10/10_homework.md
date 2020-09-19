@@ -12,7 +12,7 @@
 ![title](merges_only.png)
 ```
 	3.	Գտիր այն commit-ները որոնք կան master-ում բայց չկան develop-ում հետեվյալ format-ով և գույներով:
-		Screenshot արա և push արա repo
+		Screenshot արա և push արա repo:
 ```	
 ![title](filter_log.png)
 
