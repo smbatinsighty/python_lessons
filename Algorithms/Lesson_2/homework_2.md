@@ -17,7 +17,7 @@
 		
 		2.3 Code
 		
-	3.	Գրեք ծրագիր որը Binary number-ը կդարձնի Decmial:
+	3.	Գրեք ծրագիր որը Binary number-ը կդարձնի Decimal:
 ```
 
 ### Research
