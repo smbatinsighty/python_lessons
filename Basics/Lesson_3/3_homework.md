@@ -22,7 +22,7 @@
 	
  6. Ունենք users_list = ["Vazgen", "Chris Tacker", "Nikola Tesla"]
 	Ստեղծել input(), որը կունենա սենց հրավերքի տեքստ 
-		'Your users ["Vazgen", "Chris Tacker", "Nikola Tesla"]՛
+		'Your users ["Vazgen", "Chris Tacker", "Nikola Tesla"]'
 		'who do you want to remove ?'
 	Հետո գրեք են user-ի անունը որին ուզում եք հեռացնել:
 	Արդյունքում ստանանք սենց տեքստ
