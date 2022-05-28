@@ -1,5 +1,9 @@
 Shortcuts(կարճ խակերական կնոպկեքի զույգեր)
-1.  	Ctrl + Alt + t - terminalic durs
+1.      Terminalic durs
+	Ctrl + z
+	Ctrl + shift + z
+	Ctrl + Alt + t
+	Alt + Tab
 
 	Terminali mej
 	Ctrl + l
