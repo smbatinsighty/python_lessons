@@ -1,7 +1,11 @@
 Shortcuts(կարճ խակերական կնոպկեքի զույգեր)
-1.      Terminalic durs
+1.      Porci uxaki sranq
+
+	Text greluc
 	Ctrl + z
 	Ctrl + shift + z
+	
+	Erb uzum es
 	Ctrl + Alt + t
 	Alt + Tab
 
