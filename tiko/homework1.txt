@@ -21,7 +21,7 @@ Shortcuts(կարճ խակերական կնոպկեքի զույգեր)
 	user
 	client
 	customer
-	change direcorty (cd - abbriviation :)
+	change directory (cd - abbriviation :)
 	to list
 	block
 	condition
