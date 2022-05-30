@@ -1,8 +1,9 @@
 ## Chapter 1
 ### 1. Terminal
-### 2. Pythoni interpretotor
-### 3. Variables
-### 4. Strong dynamic type checking
+### 2. Zen Of Python
+### 3. Python interpretotor
+### 4. Variables
+### 5. Strong dynamic type checking
 
 
 ```python
