@@ -3,7 +3,8 @@
 ### 2. Zen Of Python
 ### 3. Python interpretotor
 ### 4. Variables
-### 5. Strong dynamic type checking
+### 5. Error messages
+### 6. Strong dynamic type checking
 
 
 ```python
