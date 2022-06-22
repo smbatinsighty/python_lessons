@@ -62,7 +62,9 @@ print(sum)
 ## Chapter 4
 ### 1. Operators
 ### 2. Type bool
-### 3. Check type
+### 3. Type None
+### 4. Check type
+
 
 
 ```python
