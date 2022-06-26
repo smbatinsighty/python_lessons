@@ -69,8 +69,9 @@
 
 ## Chapter 3
 ### 1. String sequence
-### 2. String format
-### 3. String Methods
+### 2. String(double quotes, single quotes, special escape characters)
+### 3. String format
+### 4. String Methods
 
 
 ```python
